@@ -8,10 +8,10 @@ Currently, I hold the following positions:
  
 To contact me or learn more, you can try any of the following methods:
 
-- Main Email: ethanallavarpu@g.ucla.edu (during my time at UCLA)
-- Alternate Email: ethan.allavarpu@outlook.com
 - LinkedIn: [https://www.linkedin.com/in/ethanallavarpu/](https://www.linkedin.com/in/ethanallavarpu/)
 - Website: [https://sites.google.com/g.ucla.edu/ethan-allavarpu/home](https://sites.google.com/g.ucla.edu/ethan-allavarpu/home)
+- Main Email: ethanallavarpu@g.ucla.edu (during my time at UCLA)
+- Alternate Email: ethan.allavarpu@outlook.com
 
 
 <!--
