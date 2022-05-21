@@ -1,4 +1,4 @@
-Hello, my name is Ethan Allavarpu. In the autumn, I will pursue a Master of Science in Statistics Data Science at Stanford University. Currently, I am a senior undergraduate statistics major at the University of California, Los Angeles who will graduate in June. My fields of interest include sports, healthcare, and political science. My language skillset includes R, Python, Tableau, and SQL.
+Hello, my name is Ethan Allavarpu. In the autumn, I will pursue a Master of Science in Statistics Data Science at Stanford University. Currently, I am a senior undergraduate statistics major at the University of California, Los Angeles who will graduate in June. My fields of interest include sports, healthcare, and political science. My programming skillset includes Python, R, SQL, and Tableau.
 
 Currently, I hold the following positions:
 
