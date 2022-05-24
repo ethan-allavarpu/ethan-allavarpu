@@ -4,7 +4,6 @@ Currently, I hold the following positions:
 
 - Data Analyst Intern, SCAN Health Plan
 - Programming Assistant, UCLA Library Data Science Center
-- Student Researcher, UCLA Department of Statistics
 - President, Bruin Sports Analytics
  
 To contact me or learn more, you can try any of the following:
