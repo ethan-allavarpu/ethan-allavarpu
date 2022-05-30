@@ -11,8 +11,8 @@ To contact me or learn more, you can try any of the following:
 - LinkedIn: [https://www.linkedin.com/in/ethanallavarpu/](https://www.linkedin.com/in/ethanallavarpu/)
 - Website: [https://sites.google.com/view/ethan-allavarpu](https://sites.google.com/view/ethan-allavarpu)
 - Main Email: eallavar@stanford.edu
- - Alternate Email: ethanallavarpu@g.ucla.edu
- - Alternate Email: ethan.allavarpu@outlook.com
+  - Alternate Email: ethanallavarpu@g.ucla.edu
+  - Alternate Email: ethan.allavarpu@outlook.com
 
 
 <!--
