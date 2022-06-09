@@ -1,10 +1,6 @@
-Hello, my name is Ethan Allavarpu. In the autumn, I will pursue a Master of Science in Statistics Data Science at Stanford University. Currently, I am a senior undergraduate statistics major at the University of California, Los Angeles who will graduate in June. My fields of interest include sports, healthcare, and political science. My programming skillset includes Python, R, SQL, and Tableau.
+Hello, my name is Ethan Allavarpu. I am pursuing a Master of Science (M.S.) in Statistics Data Science at Stanford University. In June 2022, I graduated Summa Cum Laude (4.00 GPA) with a Bachelor of Science (B.S.) in Statistics from the University of California, Los Angeles (UCLA).
 
-Currently, I hold the following positions:
-
-- Data Analyst Intern, SCAN Health Plan
-- Programming Assistant, UCLA Library Data Science Center
-- President, Bruin Sports Analytics
+My fields of interest include sports, healthcare, and political science. Currently, I am a Data Science Intern with Bridg/Cardlytics. My programming skillset includes Python, R, SQL, and Tableau. I am always eager to contribute to research and take on internships in the coming months.
  
 To contact me or learn more, you can try any of the following:
 
