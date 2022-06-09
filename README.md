@@ -1,4 +1,4 @@
-Hello, my name is Ethan Allavarpu. I am pursuing a Master of Science (M.S.) in Statistics Data Science at Stanford University. In June 2022, I graduated Summa Cum Laude (4.00 GPA) with a Bachelor of Science (B.S.) in Statistics from the University of California, Los Angeles (UCLA), completing the four-year degree program in three years.
+Hello, my name is Ethan Allavarpu. I am pursuing a Master of Science (M.S.) in Statistics Data Science at Stanford University. In June 2022, I graduated Summa Cum Laude (4.00 GPA) with a Bachelor of Science (B.S.) in Statistics from the University of California, Los Angeles (UCLA) and completed the four-year degree program in three years.
 
 My fields of interest include sports, healthcare, and political science. Currently, I am a Data Science Intern with Bridg/Cardlytics. My programming skillset includes Python, R, SQL, and Tableau. I am always eager to contribute to research and take on internships in the coming months.
  
