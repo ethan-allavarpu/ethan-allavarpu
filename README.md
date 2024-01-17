@@ -6,4 +6,3 @@ To contact me or learn more, you can try any of the following:
 - Website: [https://sites.google.com/view/ethan-allavarpu/](https://sites.google.com/view/ethan-allavarpu/)
 - Primary Email: eallavar@alumni.stanford.edu
   - Alternate Email: ethanallavarpu@ucla.edu
-  - Alternate Email: ethan.allavarpu@outlook.com
